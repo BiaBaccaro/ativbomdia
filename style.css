@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 249, 161);
+
+}
+
+h1{
+    text-align: center;
+}
+img{
+    width: 50%;
+    border-radius: 10%;
+}
+
+.botao{
+   text-align: center;
+}
